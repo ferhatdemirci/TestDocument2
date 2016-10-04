@@ -1,12 +1,12 @@
-Quick Tutorial
+##Quick Tutorial
 
-Register/Login
+#Register/Login
 
 To get started with Codeanywhere, just Register with an account or Login if you are already registered and go to our Editor!
 
-signup
+#signup
 
-Starting up
+#Starting up
 
 For this tutorial, we’ll show you how to work with our Containers, although, you can set up your SSH/FTP server right away, or connect to Google Drive, Dropbox, Amazon S3, and even import your existing repository or create your DigitalOcean Droplet! Containers are in essence your own Virtual Private Servers which run invisibly in the background of Codeanywhere, each one with its own amount of RAM, Disk space and Processing power. Containers give you the ability to provision any Development Environment you like. You can even choose between one of the predefined stacks.
 
@@ -38,6 +38,6 @@ and you’ll be able to preview your new app!
 
 container-run
 
-That’s about it!
+#That’s about it!
 
 You can now share your code or work with your colleagues in the same way you’d do that with Google Docs with our collaboration feature, and even share your terminal! If they make some changes you’re not happy with, use our Revisions feature, and get your code back to where you’d like! Sounds interesting? Read our online documentation and learn more about the rest of the cool features we have to offer! :)
